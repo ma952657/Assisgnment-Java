@@ -1,31 +1,11 @@
-target/
-
-!.mvn/wrapper/maven-wrapper.jar
-
-!**/src/main/**
-
-!**/src/test/**
-
-
-
-/mvnw.bat
-
-/mvnw.cmd
-
-/mvnw
-
-/.mvn/
-
-
-
-### IntelliJ IDEA ###
-
-.idea
-
-*.iws
-
+# Intellij
+.idea/
 *.iml
-
-*.ipr
-
+*.iws
+ 
+# Mac
 .DS_Store
+ 
+# Maven
+log/
+target/
